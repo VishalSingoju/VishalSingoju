@@ -10,10 +10,10 @@
 
 <br/>
 
-<a href="https://www.linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-<a href="https://x.com/YOUR_HANDLE"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"/></a>
+<a href="https://www.linkedin.com/in/vishalsingoju"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="https://x.com/VSingoju"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"/></a>
 <a href="https://vishalsshutterstories.vercel.app"><img src="https://img.shields.io/badge/Portfolio-2DD4BF?style=for-the-badge&logo=vercel&logoColor=black" alt="Portfolio"/></a>
-<a href="mailto:YOUR_EMAIL@example.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+<a href="mailto:vsingoju17@gmail..com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 
 </div>
 
@@ -102,17 +102,11 @@ Fastest way to reach me is email. Include the problem, the timeline and what "do
 
 <div align="center">
 
-<a href="mailto:YOUR_EMAIL@example.com"><img src="https://img.shields.io/badge/Say_Hello-2DD4BF?style=for-the-badge&logo=gmail&logoColor=black" alt="Email me"/></a>
-<a href="https://www.linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="mailto:vsingoju17@gmail.com"><img src="https://img.shields.io/badge/Say_Hello-2DD4BF?style=for-the-badge&logo=gmail&logoColor=black" alt="Email me"/></a>
+<a href="https://www.linkedin.com/in/vishalsingoju"><img src="https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 
 </div>
 
 <br/>
 
-<div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=VishalSingoju&label=Profile%20views&color=2dd4bf&style=flat-square" alt="Profile views"/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=100&section=footer" alt="footer" width="100%"/>
-
-</div>
